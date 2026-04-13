@@ -43,5 +43,6 @@ Example problems solved:
 - function to calculate determinant of matrix(determinant.py)(CodeWars)
 - Implement a function to convert PascalCase to snake_case (snake_case.py)(CodeWars)
 - created a function to calculate the MSE from arrays (mse.py) (CodeWars)
+- Implement snail function for snail sort (snail_sort.py)(CodeWars)
 
 More problems will be added regularly as part of my daily practice.
