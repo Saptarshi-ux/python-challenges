@@ -45,5 +45,6 @@ Example problems solved:
 - created a function to calculate the MSE from arrays (mse.py) (CodeWars)
 - Implement snail function for snail sort (snail_sort.py)(CodeWars)
 - differentiation function for polynomials (differentiation.py)(CodeWars)
+- function to calculate minimum perfect square sums (perfect_squares.py)(Codewars)
 
 More problems will be added regularly as part of my daily practice.
