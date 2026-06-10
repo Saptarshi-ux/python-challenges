@@ -5,7 +5,7 @@
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-yellow)
 ![Practice](https://img.shields.io/badge/Purpose-Daily%20Practice-green)
 
-- This repository contains my Python solutions to algorithm and coding challenges from platform like CodeWars. The goal of this repository is to improve problem-solving ability, data structures knowledge, and algorithmic thinking through consistent practice.
+- This repository contains my Python solutions to algorithm and coding challenges from platforms like CodeWars. The goal of this repository is to improve problem-solving ability, data structures knowledge, and algorithmic thinking through consistent practice.
 
 ## Platform
 - CodeWars
