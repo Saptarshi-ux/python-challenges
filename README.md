@@ -46,6 +46,6 @@ Example problems solved:
 - Problem 20: [Implement snail function for snail sort](snail_sort.py)
 - Problem 21: [Differentiation function for polynomials](differentiation.py)
 - Problem 22: [Function to calculate minimum perfect square sums](perfect_squares.py)
-- Problem 23: [Checking Structural Similarity of Nested Lists using Recursion](structure.py)
+- Problem 23: [Checking Structural similarity of nested lists using recursion](structure.py)
 
 More problems will be added regularly as part of my daily practice.
