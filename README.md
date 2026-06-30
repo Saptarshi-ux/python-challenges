@@ -47,6 +47,6 @@ Example problems solved:
 - Problem 21: [Differentiation function for polynomials](differentiation.py)
 - Problem 22: [Function to calculate minimum perfect square sums](perfect_squares.py)
 - Problem 23: [Checking Structural similarity of nested lists using recursion](structure.py)
-- Problem 24: [Duration format]()
+- Problem 24: [Duration format](dur.py)
 
 More problems will be added regularly as part of my daily practice.
